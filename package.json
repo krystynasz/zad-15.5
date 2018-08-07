@@ -1,0 +1,19 @@
+{
+  "name": "14.8",
+  "version": "1.0.0",
+  "description": "Gif searcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "search",
+    "start": "http-server"
+  },
+  "keywords": [
+    "searcher"
+  ],
+  "author": "Krystyna",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-polyfill": "^6.26.0",
+    "http-server": "^0.11.1"
+  }
+}

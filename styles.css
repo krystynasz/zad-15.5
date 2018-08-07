@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #dfe6e9;
+}
+
+div {
+    margin: 50px;
+}
+
+input {
+    border: 2px solid black;
+}
+
+input:focus {
+    border: 2px solid #636e72;
+    outline: none;
+}
